@@ -1,1 +1,1 @@
-Hello World! Take 2
+Hello World
